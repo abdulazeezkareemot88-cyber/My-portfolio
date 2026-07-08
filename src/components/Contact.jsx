@@ -40,9 +40,9 @@ const Contact = () => {
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: 'Umang Lodaya',
+          to_name: 'Abdul Azeez Kareemot',
           from_email: form.email,
-          to_email: 'lodayaumang71@gmail.com',
+          to_email: 'abdulazeezkareemot88@gmail.com',
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -105,10 +105,10 @@ const Contact = () => {
                   What I usually help with
                 </h4>
                 <ul className="mt-4 text-secondary text-sm space-y-3">
-                  <li>→ DevOps & Automation</li>
-                  <li>→ Backend & System design</li>
-                  <li>→ AI / ML Engineering</li>
-                  <li>→ Internal tools & platforms</li>
+                  <li>→ UI/UX Implementation</li>
+                  <li>→ Frontend Development</li>
+                  <li>→ Figma</li>
+                  <li>→ Responsive Web Design</li>
                 </ul>
               </div>
 
@@ -121,7 +121,7 @@ const Contact = () => {
                 <p className="text-secondary mt-2 text-sm">
                   Reach me directly at{' '}
                   <span className="text-white break-all">
-                    lodayaumang71@gmail.com
+                    abdulazeezkareemot88@gmail.com
                   </span>
                 </p>
               </div>
@@ -132,7 +132,7 @@ const Contact = () => {
                 <h4 className="text-white text-xs uppercase tracking-wide">
                   Location
                 </h4>
-                <p className="text-secondary text-sm mt-1">Mumbai, India</p>
+                <p className="text-secondary text-sm mt-1">Osun, Nigeria</p>
               </div>
             </div>
           </div>

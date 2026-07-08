@@ -82,11 +82,11 @@ const Works = () => {
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          The following projects highlight my experience through real-world
-          systems I have built and maintained. Each project includes a concise
-          overview of the problem, the technologies used, and the impact of the
-          solution, demonstrating my ability to design, implement, and operate
-          reliable software.
+          Here are some of the projects I've worked on,showcasing my experience in building modern,
+           responsive,and interactive web applications.
+          Each project reflects my passion for writing clean code
+          and delivering user-friendly digital experiences.
+
         </motion.p>
       </div>
 

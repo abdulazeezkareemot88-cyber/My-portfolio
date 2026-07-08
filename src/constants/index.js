@@ -147,10 +147,6 @@ const technologies = [
     icon: java,
   },
   {
-    name: 'SQL',
-    icon: mysql,
-  },
-  {
     name: 'JavaScript',
     icon: javascript,
   },
