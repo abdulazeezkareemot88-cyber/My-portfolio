@@ -77,10 +77,10 @@ const Works = () => {
       {/* Description */}
       <div className="w-full flex">
         <p className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]">
-          Here are some of the projects I've worked on,showcasing my experience in building modern,
-           responsive,and interactive web applications.
-          Each project reflects my passion for writing clean code
-          and delivering user-friendly digital experiences.
+          Here are some of the projects I've worked on,showcasing my experience
+          in building modern, responsive,and interactive web applications. Each
+          project reflects my passion for writing clean code and delivering
+          user-friendly digital experiences.
         </p>
       </div>
 

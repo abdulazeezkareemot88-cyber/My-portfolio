@@ -14,13 +14,14 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I&apos;m <span className="text-[#915eff]">Kareemot Abdulazeez</span>
+            Hi, I&apos;m{' '}
+            <span className="text-[#915eff]">Kareemot Abdulazeez</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-           Frontend Developer passionate about creating modern,
-              responsive web applications using HTML, CSS, JavaScript, and React.
-              Continuously learning new technologies and building real-world projects 
-              to strengthen my software engineering skills.
+            Frontend Developer passionate about creating modern, responsive web
+            applications using HTML, CSS, JavaScript, and React. Continuously
+            learning new technologies and building real-world projects to
+            strengthen my software engineering skills.
           </p>
         </div>
       </div>

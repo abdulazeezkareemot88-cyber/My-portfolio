@@ -186,6 +186,10 @@ const technologies = [
     name: 'Linux',
     icon: linux,
   },
+  {
+    name: 'MySQL',
+    icon: mysql,
+  },
 ];
 
 const projects = [

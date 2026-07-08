@@ -67,13 +67,13 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a passionate Frontend Developer dedicated to creating responsive, user-friendly, and visually appealing web applications.
-        I enjoy turning ideas into interactive websites using HTML, CSS, JavaScript, and React.
-         As I continue to grow my skills, I focus on writing clean, 
-         maintainable code and building projects that improve my problem-solving abilities.
-          I am always eager to learn new technologies, take on challenging projects,
-           and create digital experiences that are both functional and engaging.
-
+        I am a passionate Frontend Developer dedicated to creating responsive,
+        user-friendly, and visually appealing web applications. I enjoy turning
+        ideas into interactive websites using HTML, CSS, JavaScript, and React.
+        As I continue to grow my skills, I focus on writing clean, maintainable
+        code and building projects that improve my problem-solving abilities. I
+        am always eager to learn new technologies, take on challenging projects,
+        and create digital experiences that are both functional and engaging.
         <div className="mt-5 flex flex-row flex-wrap justify-normal gap-3">
           {profileLinks.map((profile, index) => (
             <ProfileCard key={`project-${index}`} {...profile} />

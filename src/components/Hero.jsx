@@ -23,11 +23,10 @@ const Hero = () => {
             </h1>
 
             <p className="text-[#dfd9ff] max-w-xl text-[18px] leading-relaxed">
-              Frontend Developer passionate about creating modern,
-              responsive web applications using HTML, CSS, JavaScript, and React.
-              Continuously learning new technologies and building real-world projects 
-              to strengthen my software engineering skills.
-
+              Frontend Developer passionate about creating modern, responsive
+              web applications using HTML, CSS, JavaScript, and React.
+              Continuously learning new technologies and building real-world
+              projects to strengthen my software engineering skills.
             </p>
 
             <div className="flex gap-8 mt-4">
@@ -44,7 +43,9 @@ const Hero = () => {
               </div>
 
               <div>
-                <p className="text-white text-2xl font-bold">Full-Stack Developer</p>
+                <p className="text-white text-2xl font-bold">
+                  Full-Stack Developer
+                </p>
                 <p className="text-secondary text-sm">Core Focus</p>
               </div>
             </div>
